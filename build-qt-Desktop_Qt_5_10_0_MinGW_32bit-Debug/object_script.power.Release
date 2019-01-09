@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\newwindow.o
+./release\exit_dialog.o
+./release\name_dialog.o
+./release\warning.o
+./release\acc.o
+./release\moc_mainwindow.o
+./release\moc_newwindow.o
+./release\moc_exit_dialog.o
+./release\moc_name_dialog.o
+./release\moc_warning.o
+./release\moc_acc.o
+);

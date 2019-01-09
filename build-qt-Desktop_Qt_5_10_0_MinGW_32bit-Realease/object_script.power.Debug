@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\newwindow.o
+./debug\exit_dialog.o
+./debug\name_dialog.o
+./debug\warning.o
+./debug\acc.o
+./debug\moc_mainwindow.o
+./debug\moc_newwindow.o
+./debug\moc_exit_dialog.o
+./debug\moc_name_dialog.o
+./debug\moc_warning.o
+./debug\moc_acc.o
+);
